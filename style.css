@@ -39,7 +39,7 @@ body {
 .task__name {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .input_checkbox {
